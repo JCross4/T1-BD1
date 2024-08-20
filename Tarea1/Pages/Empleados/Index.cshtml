@@ -1,0 +1,27 @@
+﻿@page
+@model Tarea1.Pages.Empleados.IndexModel
+@using System.Data.SqlClient
+@{
+}
+<br>
+<h2>Lista Empleados</h2>
+<a class='btn btn-primary btn-sm' href='/Empleados/Crear'>Nuevo Empleado</a>
+<table class="table">
+	<thead>
+		<tr>
+			<th>ID</th>
+			<th>Nombre</th>
+			<th>Salario</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach(var item in Model.EmpleadosL)
+		{
+			<tr>
+				<td>@item.id</td>
+				<td>@item.Nombre</td>
+				<td>@item.Salario</td>
+			</tr>
+		}
+	</tbody>
+	</table>
