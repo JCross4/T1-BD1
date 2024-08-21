@@ -36,3 +36,4 @@ C:\Users\23jic\source\repos\T1-BD1\Tarea1\obj\Debug\net8.0\refint\Tarea1.dll
 C:\Users\23jic\source\repos\T1-BD1\Tarea1\obj\Debug\net8.0\Tarea1.pdb
 C:\Users\23jic\source\repos\T1-BD1\Tarea1\obj\Debug\net8.0\Tarea1.genruntimeconfig.cache
 C:\Users\23jic\source\repos\T1-BD1\Tarea1\obj\Debug\net8.0\ref\Tarea1.dll
+C:\Users\23jic\source\repos\T1-BD1\Tarea1\obj\Debug\net8.0\Tarea1.sourcelink.json

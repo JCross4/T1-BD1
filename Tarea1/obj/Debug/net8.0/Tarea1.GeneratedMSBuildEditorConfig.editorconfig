@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\23jic\source\repos\T1-BD1\Tarea1
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/23jic/source/repos/T1-BD1/Tarea1/Pages/Empleados/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbGVhZG9zXENyZWFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/23jic/source/repos/T1-BD1/Tarea1/Pages/Empleados/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbGVhZG9zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
